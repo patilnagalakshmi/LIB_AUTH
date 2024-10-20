@@ -1,0 +1,7 @@
+2024-10-14 22:25:39,739 - INFO - Book added successfully: title='str' author='strings' publication_year=2020-__LibraryMAnagement__
+2024-10-14 22:38:25,920 - INFO - Book added successfully: str-__LibraryMAnagement__
+2024-10-14 22:41:59,349 - INFO - Book added successfully: strg-__LibraryMAnagement__
+2024-10-14 22:44:11,488 - INFO - Book added successfully: the secret-__LibraryMAnagement__
+2024-10-14 22:45:52,819 - INFO - Book updated: science-__LibraryMAnagement__
+2024-10-14 22:50:06,157 - INFO - Book updated: science-__LibraryMAnagement__
+2024-10-15 12:48:51,148 - INFO - Book added successfully: the spring-__LibraryMAnagement__
